@@ -20,7 +20,7 @@ setup(
     zip_safe=False,
     author='Marco Braak',
     author_email='mbraak@ridethepony.nl',
-    install_requires=['docopt'],
+    install_requires=['docopt-ng'],
     description='Django-docopt-command allows you to write Django manage.py commands using the docopt library.',
     url='https://github.com/mbraak/django-docopt-command',
     classifiers=[
